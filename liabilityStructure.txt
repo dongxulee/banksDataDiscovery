@@ -1,0 +1,15 @@
+Total Liabilities and Capital
+	Total Liabilities
+		Deposits
+			Deposits held in Domestic Offices
+			Deposits held in Foreign Offices
+		Federal funds purchased and repurchase agreements
+		Trading Liabilities
+		Other borrowed funds
+		Subordinated debt
+		All other liabilities
+	Total Equity Capital
+		Perpetual preferred stock
+		Common stock
+		Surplus
+		Undivided profits

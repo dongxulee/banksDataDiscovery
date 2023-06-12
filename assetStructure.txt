@@ -1,0 +1,28 @@
+Total Assets
+	Cash and Balances due from Depository Institutions
+		Noninterest Bearing Balances
+		Interest Bearing Balances
+		Cash Items in Process of Collection
+		Balances due from depository institutions in US
+		Balances due from Foreign Banks
+		Balances due from Federal Reserve Board Banks
+	Securities
+		U.S. Government Securities
+		Securities Issued by States & Political Subdivisions
+		Other Domestic Debt Securities
+		Foreign Debt Securities
+		Equity Securities Not Held for Trading
+		Held to Maturity (Book Value)
+	Federal Funds Sold & Reverse Repurchase Agreements
+	Net Loans and Leases
+		All Real Estate Loans
+        Farm Loans
+		Commercial and Industrial Loans
+		Loans to Individuals
+		Total Other Loans and Leases
+		Commercial Real Estate Loans not Secured by Real Estate
+	Trading Account Assets
+	Bank Premises and Fixed Assets
+	Other Real Estate Owned
+	Goodwill and Other Intangibles
+	All Other Assets
