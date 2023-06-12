@@ -152,5 +152,5 @@ def pairwiseComparison(years, months, numberOfBanks, xlabel = True):
     plt.xlabel("Banks")
     if xlabel:
         plt.xticks(range(len(commonBanks)), commonBanks, rotation='vertical')
-    plt.legend()
+        plt.legend()
     return d1,d2
