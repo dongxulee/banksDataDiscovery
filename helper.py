@@ -144,13 +144,15 @@ def pairwiseComparison(years, months, numberOfBanks, xlabel = True):
         diff = d2 - d1
         colors = ['blue' if val >= 0 else 'red' for val in diff]
         plt.bar(index, d2 - d1, color = colors)
+        plt.ylabel("Change in HTM Securities Ratios")
     else:
         width = 0.30
         plt.bar(index, d1, width, label = "2022")
         plt.bar(index+width, d2, width, label = "2023")
-
-    plt.xlabel("Banks")
+        plt.ylabel("HTM Securities Ratios")
+    plt.xlabel("Banks ID")
     if xlabel:
         plt.xticks(range(len(commonBanks)), commonBanks, rotation='vertical')
+        plt.xlabel("Banks")
         plt.legend()
     return d1,d2
