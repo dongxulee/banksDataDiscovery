@@ -5,9 +5,14 @@ import plotly.graph_objects as go
 from collections import deque
 import pandas as pd 
 
-date = '2023-03-31'
+date = '2022-12-31'
 
-banks = ["BANK OF AMERICA, NATIONAL ASSOCIATION"
+banks = ["BANK OF AMERICA, NATIONAL ASSOCIATION",
+            "WELLS FARGO BANK, NATIONAL ASSOCIATION",
+            "GOLDMAN SACHS BANK USA",
+            "MORGAN STANLEY BANK, NATIONAL ASSOCIATION",
+            "SILICON VALLEY BANK",
+            "FIRST REPUBLIC BANK"
 ]
 
 
